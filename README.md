@@ -1,7 +1,6 @@
 # Caboalles-de-Abajo
 Mi pueblo
 # Archivo Histórico de Caboalles de Abajo
-![Vista aérea de Caboalles de Abajo y el Pozo María](pueblo.jpg)
 
 Este repositorio reúne una colección de documentos en formato **PDF** que rescatan y preservan la historia de nuestros antepasados en el pueblo de **Caboalles de Abajo** (León). 
 
