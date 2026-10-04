@@ -29,4 +29,16 @@ Cada documento PDF incluye:
 3. La **referencia de la fuente original** para que cualquier investigador pueda verificar el documento de origen.
 
 ---
-*Este espacio está vivo y se irá actualizando a medida que se completen nuevas transcripciones. Si tienes documentos antiguos sobre Caboalles de Abajo que te gustaría conservar o transcribir, no dudes en ponerte en contacto.*
+## ✉️ Colabora con el Archivo Histórico
+
+Este proyecto es un espacio vivo y abierto a toda la comunidad. Si eres vecino de **Caboalles de Abajo** o tienes raíces en el valle y conservas:
+* Fotografías antiguas del pueblo o de sus gentes.
+* Documentos, cartas, testamentos o padrones antiguos de tus antepasados.
+* Historias, actas de concejo o cualquier material que ayude a preservar nuestra memoria local.
+
+Puedes ponerte en contacto conmigo a través del siguiente correo electrónico para enviarme el material o solicitar ayuda con alguna transcripción:
+
+📩 **[magarval51@gmail.com](mailto:magarval51@gmail.com)**
+
+*Toda aportación es bienvenida para seguir rescatando y compartiendo la historia de nuestras raíces.*
+
